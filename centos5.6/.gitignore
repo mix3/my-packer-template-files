@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!build.sh
+!http/ks.cfg
+!iso/.gitkeep
+!scripts/base.sh
+!scripts/cleanup.sh
+!scripts/vagrant.sh
+!scripts/virtualbox.sh
